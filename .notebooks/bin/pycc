@@ -1,0 +1,3 @@
+#!/Volumes/Elements/GitHub/Sound_manipulation/.notebooks/bin/python3
+from numba.pycc import main
+main()
